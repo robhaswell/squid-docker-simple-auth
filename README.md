@@ -38,5 +38,6 @@ Volumes
 Ideas for Improvement
 =====================
 
+* Output logs to stdout
 * The range of authentication options could be expanded through more configuration options.
 * Supply a full configuration file that has been well considered instead of hacking up Ubuntu's defaults.
