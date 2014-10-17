@@ -1,0 +1,2 @@
+squid-docker-simple-auth
+========================
