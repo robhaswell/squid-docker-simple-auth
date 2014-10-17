@@ -7,7 +7,7 @@ The user must specify authentication credentials via the following environment v
 
 ```
 SQUID_USERNAME=foo
-SQUID_PROXY=bar
+SQUID_PASSWORD=bar
 ```
 
 An example invocation would be:
