@@ -26,12 +26,7 @@ docker run -e SQUID_USERNAME=foo -e SQUID_PASSWORD=bar -p 3128:3128 robhaswell/s
 
 * 3128
 
-### Volumes
-
-* `/var/log/squid3`
-
 ## Ideas for Improvement
 
-* Output logs to stdout.
 * The range of authentication options could be expanded through more configuration options.
 * Supply a full configuration file that has been well considered instead of hacking up Ubuntu's defaults.
